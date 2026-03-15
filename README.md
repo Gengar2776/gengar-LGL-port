@@ -1,6 +1,8 @@
 # gengar-LGL-port
 A standalone LGL port to run in the local browser
 
+### ALSO U NEED HHTPLIB AND JNI
+
 this is inspired by those old ass mod menus from happymod lmao
 
 
