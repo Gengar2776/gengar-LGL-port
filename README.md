@@ -5,6 +5,7 @@ A standalone LGL port to run in the local browser
 
 this is inspired by those old ass mod menus from happymod lmao
 
+fun fact i did NOT code the html that shits insanely skidded LMAO i made everything else tho alr enjoy
 
 if you want the other menu https://github.com/LGLTeam/Android-Mod-Menu this is where this orginated from
 
